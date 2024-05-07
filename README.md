@@ -1,3 +1,9 @@
+_This is an archived version of the Gitcoin Passport developer documentation that was written in Q1 and Q2 of 2023._
+
+_As of May 2024 (the time these docs were officially archived, although I don't believe they were ever published) the (Gitcoin) Passport devleoper documentation lives at [passportxyz/passport-docs](https://github.com/passportxyz/passportdocs)._
+
+---
+
 # Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
